@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeInsuranceManagementSystem", "LifeInsuranceManagementSystem\LifeInsuranceManagementSystem.csproj", "{F672239B-9D4E-4163-8F96-B6FB6C9F947E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insurance_Entities", "InsurancePlan\Insurance_Entities.csproj", "{12B3FC4D-43F1-43AE-A863-B619986FD0B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeInsurance_Exception", "LifeInsurance_Exception\LifeInsurance_Exception.csproj", "{D6B08A9E-9AF2-4A8D-9669-B73A1AA36D20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeInsuranceDAL", "LifeInsuranceDAL\LifeInsuranceDAL.csproj", "{F3912C80-930F-4BCD-809C-FA71B48CE29E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeInsuranceBAL", "LifeInsuranceBAL\LifeInsuranceBAL.csproj", "{ABA6D835-9182-4495-BB32-2D55D39E8875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F672239B-9D4E-4163-8F96-B6FB6C9F947E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F672239B-9D4E-4163-8F96-B6FB6C9F947E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F672239B-9D4E-4163-8F96-B6FB6C9F947E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F672239B-9D4E-4163-8F96-B6FB6C9F947E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B3FC4D-43F1-43AE-A863-B619986FD0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B3FC4D-43F1-43AE-A863-B619986FD0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B3FC4D-43F1-43AE-A863-B619986FD0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B3FC4D-43F1-43AE-A863-B619986FD0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B08A9E-9AF2-4A8D-9669-B73A1AA36D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B08A9E-9AF2-4A8D-9669-B73A1AA36D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B08A9E-9AF2-4A8D-9669-B73A1AA36D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B08A9E-9AF2-4A8D-9669-B73A1AA36D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3912C80-930F-4BCD-809C-FA71B48CE29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3912C80-930F-4BCD-809C-FA71B48CE29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3912C80-930F-4BCD-809C-FA71B48CE29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3912C80-930F-4BCD-809C-FA71B48CE29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA6D835-9182-4495-BB32-2D55D39E8875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA6D835-9182-4495-BB32-2D55D39E8875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA6D835-9182-4495-BB32-2D55D39E8875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA6D835-9182-4495-BB32-2D55D39E8875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB78E48F-3DA4-46E3-9164-5F3B0B7FECCA}
+	EndGlobalSection
+EndGlobal
